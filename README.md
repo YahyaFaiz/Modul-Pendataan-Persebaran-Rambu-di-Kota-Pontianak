@@ -5,9 +5,7 @@
 ---
 
 ## 📝 Deskripsi
-Proyek ini adalah aplikasi berbasis **WebGIS** untuk **memetakan rambu lalu lintas** di seluruh wilayah **Kota Pontianak**.  
-Aplikasi ini membantu dalam:
-- Pengelolaan inventaris rambu secara digital.
+Proyek ini adalah aplikasi berbasis **WebGIS** untuk membantu Dinas Perhubungan dalam memonitoring dan memanajemen rambu lalu lintas di Kota Pontianak.
 - Monitoring kondisi rambu di lapangan.
 - Analisis distribusi rambu secara geografis.
 
