@@ -40,6 +40,9 @@ Panduan resmi untuk seluruh anggota tim agar proses **commit** dan **push** kons
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/YahyaFaiz/Modul-Pendataan-Persebaran-Rambu-di-Kota-Pontianak.git
+```
+
+```bash
 cd Modul-Pendataan-Persebaran-Rambu-di-Kota-Pontianak
 ```
 ### 2. Membuat Branch Baru
