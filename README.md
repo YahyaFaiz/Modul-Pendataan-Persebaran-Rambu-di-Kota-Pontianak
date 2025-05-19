@@ -49,15 +49,19 @@ cd Modul-Pendataan-Persebaran-Rambu-di-Kota-Pontianak
 ```bash
 git checkout -b nama-branch
 ```
-### 3. Menambahkan Perubahan ke Staging
+### 3. Ambil update terbaru dari branch utama
+```bash
+git pull origin main
+```
+### 4. Menambahkan Perubahan ke Staging/perubahan yang sudah dibuat
 ```bash
 git add .
 ```
-### 4. Commit Perubahan
+### 5. Commit Perubahan/Simpan perubahan dengan pesan jelas
 ```bash
 git commit -m "Deskripsi singkat perubahan"
 ```
-### 5. Push ke Repository
+### 6. Push ke Repository
 ```bash
 git push origin nama-branch
 ```
