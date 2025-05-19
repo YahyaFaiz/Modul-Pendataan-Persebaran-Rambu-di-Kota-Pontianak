@@ -41,7 +41,6 @@ Panduan resmi untuk seluruh anggota tim agar proses **commit** dan **push** kons
 ```bash
 git clone https://github.com/YahyaFaiz/Modul-Pendataan-Persebaran-Rambu-di-Kota-Pontianak.git
 ```
-
 ```bash
 cd Modul-Pendataan-Persebaran-Rambu-di-Kota-Pontianak
 ```
@@ -65,4 +64,3 @@ git commit -m "Deskripsi singkat perubahan"
 ```bash
 git push origin nama-branch
 ```
-
